@@ -1,0 +1,415 @@
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\EasyProjet.exe
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\EasyProjet.pdb
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.csprojResolveAssemblyReference.cache
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.Cnx.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.Form1.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.ListeTaches.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.Properties.Resources.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.csproj.GenerateResource.Cache
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.exe.licenses
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.exe
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.pdb
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\EasyProjet.exe.config
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\EntityFramework.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\EntityFramework.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.Main.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraScheduler.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.AjoutTache.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.ModifTache.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.SuppTache.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.AjoutEmp.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.ListeEmp.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.ModifEmp.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.SuppEmp.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.AjoutProjet.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.ListeProjet.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.ModifProjet.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.SuppProjet.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.IntEmp.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Xpo.v18.1.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Diagram.v18.1.Core.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraDiagram.v18.1.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.DataAccess.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.DataAccess.v18.1.UI.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraReports.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Xpo.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.Diagram.v18.1.Core.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraDiagram.v18.1.xml
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.LPEmp.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.XtraForm1.resources
+C:\Users\moham\Documents\Visual Studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.Historique.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.LancementTache.resources
+C:\Users\moham\documents\visual studio 2015\Projects\EasyProjet\EasyProjet\obj\Debug\EasyProjet.Widget.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\EasyProjet.exe.config
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\EasyProjet.exe
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\EasyProjet.pdb
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraReports.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\EntityFramework.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraReports.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\EntityFramework.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.csprojResolveAssemblyReference.cache
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.AjoutEmp.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.AjoutProjet.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.AjoutTache.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.Cnx.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.Form1.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.Historique.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.IntEmp.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.LancementTache.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.ListeEmp.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.ListeProjet.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.ListeTaches.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.LPEmp.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.Mails.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.Main.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.ModifEmp.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.ModifProjet.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.ModifTache.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.Properties.Resources.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.Widget.resources
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.csproj.GenerateResource.Cache
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.exe.licenses
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.exe
+C:\Users\moham\Desktop\EasyProjet\EasyProjet\obj\Debug\EasyProjet.pdb

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EasyProjetModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Employe">
+    <Key>
+      <PropertyRef Name="CbMarq" />
+    </Key>
+    <Property Name="CbMarq" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nom" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="prenom" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="mdp" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="idTache" Type="Int32" Nullable="false" />
+    <Property Name="admin" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Projets" Relationship="Self.FK_Projets_Employe" FromRole="Employe" ToRole="Projets" />
+    <NavigationProperty Name="Taches" Relationship="Self.FK_Taches_Employe" FromRole="Employe" ToRole="Taches" />
+  </EntityType>
+  <EntityType Name="Projets">
+    <Key>
+      <PropertyRef Name="idProjet" />
+    </Key>
+    <Property Name="idProjet" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nomProjet" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="description" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="idEmp" Type="Int32" />
+    <Property Name="idTache" Type="Int32" />
+    <NavigationProperty Name="Employe" Relationship="Self.FK_Projets_Employe" FromRole="Projets" ToRole="Employe" />
+    <NavigationProperty Name="Taches" Relationship="Self.FK_Taches_Projets" FromRole="Projets" ToRole="Taches" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Taches">
+    <Key>
+      <PropertyRef Name="idTache" />
+    </Key>
+    <Property Name="idTache" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nomTache" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="idEmp" Type="Int32" />
+    <Property Name="idP" Type="Int32" />
+    <Property Name="description" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Employe" Relationship="Self.FK_Taches_Employe" FromRole="Taches" ToRole="Employe" />
+    <NavigationProperty Name="Projets" Relationship="Self.FK_Taches_Projets" FromRole="Taches" ToRole="Projets" />
+  </EntityType>
+  <Association Name="FK_Projets_Employe">
+    <End Role="Employe" Type="Self.Employe" Multiplicity="0..1" />
+    <End Role="Projets" Type="Self.Projets" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employe">
+        <PropertyRef Name="CbMarq" />
+      </Principal>
+      <Dependent Role="Projets">
+        <PropertyRef Name="idEmp" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Taches_Employe">
+    <End Role="Employe" Type="Self.Employe" Multiplicity="0..1" />
+    <End Role="Taches" Type="Self.Taches" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employe">
+        <PropertyRef Name="CbMarq" />
+      </Principal>
+      <Dependent Role="Taches">
+        <PropertyRef Name="idEmp" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Taches_Projets">
+    <End Role="Projets" Type="Self.Projets" Multiplicity="0..1" />
+    <End Role="Taches" Type="Self.Taches" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Projets">
+        <PropertyRef Name="idProjet" />
+      </Principal>
+      <Dependent Role="Taches">
+        <PropertyRef Name="idP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EasyProjetEntities0" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employe" EntityType="Self.Employe" />
+    <EntitySet Name="Projets" EntityType="Self.Projets" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Taches" EntityType="Self.Taches" />
+    <AssociationSet Name="FK_Projets_Employe" Association="Self.FK_Projets_Employe">
+      <End Role="Employe" EntitySet="Employe" />
+      <End Role="Projets" EntitySet="Projets" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Taches_Employe" Association="Self.FK_Taches_Employe">
+      <End Role="Employe" EntitySet="Employe" />
+      <End Role="Taches" EntitySet="Taches" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Taches_Projets" Association="Self.FK_Taches_Projets">
+      <End Role="Projets" EntitySet="Projets" />
+      <End Role="Taches" EntitySet="Taches" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

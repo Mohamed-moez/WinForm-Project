@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyPFAModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Employe">
+    <Key>
+      <PropertyRef Name="IdEmp" />
+    </Key>
+    <Property Name="IdEmp" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nom" Type="varchar" MaxLength="50" />
+    <Property Name="prenom" Type="varchar" MaxLength="50" />
+    <Property Name="mdp" Type="varchar" MaxLength="50" />
+    <Property Name="admin" Type="int" />
+    <Property Name="code" Type="varchar" MaxLength="50" />
+    <Property Name="mail" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Pointage">
+    <Key>
+      <PropertyRef Name="IdPointage" />
+    </Key>
+    <Property Name="IdPointage" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ouverture_Session" Type="varchar" MaxLength="50" />
+    <Property Name="fermeture_session" Type="varchar" MaxLength="50" />
+    <Property Name="lance_tache" Type="varchar" MaxLength="50" />
+    <Property Name="ferme_tache" Type="varchar" MaxLength="50" />
+    <Property Name="idEmp" Type="int" />
+    <Property Name="tache" Type="int" />
+    <Property Name="tempTache" Type="int" />
+  </EntityType>
+  <EntityType Name="Projets">
+    <Key>
+      <PropertyRef Name="IdProjet" />
+    </Key>
+    <Property Name="IdProjet" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nomProjet" Type="varchar" MaxLength="50" />
+    <Property Name="descProjet" Type="text" />
+  </EntityType>
+  <EntityType Name="Tache">
+    <Key>
+      <PropertyRef Name="IdTache" />
+    </Key>
+    <Property Name="IdTache" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nomTache" Type="varchar" MaxLength="50" />
+    <Property Name="descTache" Type="text" />
+    <Property Name="type" Type="varchar" MaxLength="50" />
+    <Property Name="priorite" Type="varchar" MaxLength="50" />
+    <Property Name="status" Type="varchar" MaxLength="50" />
+    <Property Name="idProjet" Type="int" />
+    <Property Name="idEmp" Type="int" />
+    <Property Name="temp" Type="int" />
+    <Property Name="dateD" Type="varchar" MaxLength="50" />
+    <Property Name="dateF" Type="varchar" MaxLength="50" />
+    <Property Name="proggre" Type="int" />
+  </EntityType>
+  <Association Name="FK_Pointage_ToEmp">
+    <End Role="Employe" Type="Self.Employe" Multiplicity="0..1" />
+    <End Role="Pointage" Type="Self.Pointage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employe">
+        <PropertyRef Name="IdEmp" />
+      </Principal>
+      <Dependent Role="Pointage">
+        <PropertyRef Name="idEmp" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tache_ToEmp">
+    <End Role="Employe" Type="Self.Employe" Multiplicity="0..1" />
+    <End Role="Tache" Type="Self.Tache" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employe">
+        <PropertyRef Name="IdEmp" />
+      </Principal>
+      <Dependent Role="Tache">
+        <PropertyRef Name="idEmp" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tache_ToProject">
+    <End Role="Projets" Type="Self.Projets" Multiplicity="0..1" />
+    <End Role="Tache" Type="Self.Tache" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Projets">
+        <PropertyRef Name="IdProjet" />
+      </Principal>
+      <Dependent Role="Tache">
+        <PropertyRef Name="idProjet" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MyPFAModelStoreContainer">
+    <EntitySet Name="Employe" EntityType="Self.Employe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pointage" EntityType="Self.Pointage" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Projets" EntityType="Self.Projets" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tache" EntityType="Self.Tache" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Pointage_ToEmp" Association="Self.FK_Pointage_ToEmp">
+      <End Role="Employe" EntitySet="Employe" />
+      <End Role="Pointage" EntitySet="Pointage" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tache_ToEmp" Association="Self.FK_Tache_ToEmp">
+      <End Role="Employe" EntitySet="Employe" />
+      <End Role="Tache" EntitySet="Tache" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tache_ToProject" Association="Self.FK_Tache_ToProject">
+      <End Role="Projets" EntitySet="Projets" />
+      <End Role="Tache" EntitySet="Tache" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

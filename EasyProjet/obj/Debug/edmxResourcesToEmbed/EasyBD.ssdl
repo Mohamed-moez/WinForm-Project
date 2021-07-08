@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EasyProjetModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Employe">
+    <Key>
+      <PropertyRef Name="CbMarq" />
+    </Key>
+    <Property Name="CbMarq" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nom" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="prenom" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="mdp" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="idTache" Type="int" Nullable="false" />
+    <Property Name="admin" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Projets">
+    <Key>
+      <PropertyRef Name="idProjet" />
+    </Key>
+    <Property Name="idProjet" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nomProjet" Type="nvarchar" MaxLength="50" />
+    <Property Name="description" Type="nvarchar" MaxLength="50" />
+    <Property Name="idEmp" Type="int" />
+    <Property Name="idTache" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Taches">
+    <Key>
+      <PropertyRef Name="idTache" />
+    </Key>
+    <Property Name="idTache" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nomTache" Type="nvarchar" MaxLength="50" />
+    <Property Name="idEmp" Type="int" />
+    <Property Name="idP" Type="int" />
+    <Property Name="description" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Projets_Employe">
+    <End Role="Employe" Type="Self.Employe" Multiplicity="0..1" />
+    <End Role="Projets" Type="Self.Projets" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employe">
+        <PropertyRef Name="CbMarq" />
+      </Principal>
+      <Dependent Role="Projets">
+        <PropertyRef Name="idEmp" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Taches_Employe">
+    <End Role="Employe" Type="Self.Employe" Multiplicity="0..1" />
+    <End Role="Taches" Type="Self.Taches" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employe">
+        <PropertyRef Name="CbMarq" />
+      </Principal>
+      <Dependent Role="Taches">
+        <PropertyRef Name="idEmp" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Taches_Projets">
+    <End Role="Projets" Type="Self.Projets" Multiplicity="0..1" />
+    <End Role="Taches" Type="Self.Taches" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Projets">
+        <PropertyRef Name="idProjet" />
+      </Principal>
+      <Dependent Role="Taches">
+        <PropertyRef Name="idP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EasyProjetModelStoreContainer">
+    <EntitySet Name="Employe" EntityType="Self.Employe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Projets" EntityType="Self.Projets" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Taches" EntityType="Self.Taches" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Projets_Employe" Association="Self.FK_Projets_Employe">
+      <End Role="Employe" EntitySet="Employe" />
+      <End Role="Projets" EntitySet="Projets" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Taches_Employe" Association="Self.FK_Taches_Employe">
+      <End Role="Employe" EntitySet="Employe" />
+      <End Role="Taches" EntitySet="Taches" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Taches_Projets" Association="Self.FK_Taches_Projets">
+      <End Role="Projets" EntitySet="Projets" />
+      <End Role="Taches" EntitySet="Taches" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

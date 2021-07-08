@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyPFAModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Employe">
+    <Key>
+      <PropertyRef Name="IdEmp" />
+    </Key>
+    <Property Name="IdEmp" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nom" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="prenom" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="mdp" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="admin" Type="Int32" />
+    <NavigationProperty Name="Pointage" Relationship="Self.FK_Pointage_ToEmp" FromRole="Employe" ToRole="Pointage" />
+    <NavigationProperty Name="Tache" Relationship="Self.FK_Tache_ToEmp" FromRole="Employe" ToRole="Tache" />
+    <Property Name="code" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="mail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Pointage">
+    <Key>
+      <PropertyRef Name="IdPointage" />
+    </Key>
+    <Property Name="IdPointage" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ouverture_Session" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="fermeture_session" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="lance_tache" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ferme_tache" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="idEmp" Type="Int32" />
+    <Property Name="tache" Type="Int32" />
+    <Property Name="tempTache" Type="Int32" />
+    <NavigationProperty Name="Employe" Relationship="Self.FK_Pointage_ToEmp" FromRole="Pointage" ToRole="Employe" />
+  </EntityType>
+  <EntityType Name="Projets">
+    <Key>
+      <PropertyRef Name="IdProjet" />
+    </Key>
+    <Property Name="IdProjet" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nomProjet" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="descProjet" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Tache" Relationship="Self.FK_Tache_ToProject" FromRole="Projets" ToRole="Tache" />
+  </EntityType>
+  <EntityType Name="Tache">
+    <Key>
+      <PropertyRef Name="IdTache" />
+    </Key>
+    <Property Name="IdTache" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nomTache" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="descTache" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="type" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="priorite" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="status" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="idProjet" Type="Int32" />
+    <Property Name="idEmp" Type="Int32" />
+    <Property Name="temp" Type="Int32" />
+    <Property Name="dateD" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="dateF" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="proggre" Type="Int32" />
+    <NavigationProperty Name="Employe" Relationship="Self.FK_Tache_ToEmp" FromRole="Tache" ToRole="Employe" />
+    <NavigationProperty Name="Projets" Relationship="Self.FK_Tache_ToProject" FromRole="Tache" ToRole="Projets" />
+  </EntityType>
+  <Association Name="FK_Pointage_ToEmp">
+    <End Role="Employe" Type="Self.Employe" Multiplicity="0..1" />
+    <End Role="Pointage" Type="Self.Pointage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employe">
+        <PropertyRef Name="IdEmp" />
+      </Principal>
+      <Dependent Role="Pointage">
+        <PropertyRef Name="idEmp" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tache_ToEmp">
+    <End Role="Employe" Type="Self.Employe" Multiplicity="0..1" />
+    <End Role="Tache" Type="Self.Tache" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employe">
+        <PropertyRef Name="IdEmp" />
+      </Principal>
+      <Dependent Role="Tache">
+        <PropertyRef Name="idEmp" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tache_ToProject">
+    <End Role="Projets" Type="Self.Projets" Multiplicity="0..1" />
+    <End Role="Tache" Type="Self.Tache" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Projets">
+        <PropertyRef Name="IdProjet" />
+      </Principal>
+      <Dependent Role="Tache">
+        <PropertyRef Name="idProjet" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MyPFAEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employe" EntityType="Self.Employe" />
+    <EntitySet Name="Pointage" EntityType="Self.Pointage" />
+    <EntitySet Name="Projets" EntityType="Self.Projets" />
+    <EntitySet Name="Tache" EntityType="Self.Tache" />
+    <AssociationSet Name="FK_Pointage_ToEmp" Association="Self.FK_Pointage_ToEmp">
+      <End Role="Employe" EntitySet="Employe" />
+      <End Role="Pointage" EntitySet="Pointage" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tache_ToEmp" Association="Self.FK_Tache_ToEmp">
+      <End Role="Employe" EntitySet="Employe" />
+      <End Role="Tache" EntitySet="Tache" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tache_ToProject" Association="Self.FK_Tache_ToProject">
+      <End Role="Projets" EntitySet="Projets" />
+      <End Role="Tache" EntitySet="Tache" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

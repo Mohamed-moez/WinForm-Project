@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MyPFAModelStoreContainer" CdmEntityContainer="MyPFAEntities">
+    <EntitySetMapping Name="Employe">
+      <EntityTypeMapping TypeName="MyPFAModel.Employe">
+        <MappingFragment StoreEntitySet="Employe">
+          <ScalarProperty Name="mail" ColumnName="mail" />
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="IdEmp" ColumnName="IdEmp" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="mdp" ColumnName="mdp" />
+          <ScalarProperty Name="admin" ColumnName="admin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pointage">
+      <EntityTypeMapping TypeName="MyPFAModel.Pointage">
+        <MappingFragment StoreEntitySet="Pointage">
+          <ScalarProperty Name="IdPointage" ColumnName="IdPointage" />
+          <ScalarProperty Name="ouverture_Session" ColumnName="ouverture_Session" />
+          <ScalarProperty Name="fermeture_session" ColumnName="fermeture_session" />
+          <ScalarProperty Name="lance_tache" ColumnName="lance_tache" />
+          <ScalarProperty Name="ferme_tache" ColumnName="ferme_tache" />
+          <ScalarProperty Name="idEmp" ColumnName="idEmp" />
+          <ScalarProperty Name="tache" ColumnName="tache" />
+          <ScalarProperty Name="tempTache" ColumnName="tempTache" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Projets">
+      <EntityTypeMapping TypeName="MyPFAModel.Projets">
+        <MappingFragment StoreEntitySet="Projets">
+          <ScalarProperty Name="IdProjet" ColumnName="IdProjet" />
+          <ScalarProperty Name="nomProjet" ColumnName="nomProjet" />
+          <ScalarProperty Name="descProjet" ColumnName="descProjet" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tache">
+      <EntityTypeMapping TypeName="MyPFAModel.Tache">
+        <MappingFragment StoreEntitySet="Tache">
+          <ScalarProperty Name="IdTache" ColumnName="IdTache" />
+          <ScalarProperty Name="nomTache" ColumnName="nomTache" />
+          <ScalarProperty Name="descTache" ColumnName="descTache" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="priorite" ColumnName="priorite" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="idProjet" ColumnName="idProjet" />
+          <ScalarProperty Name="idEmp" ColumnName="idEmp" />
+          <ScalarProperty Name="temp" ColumnName="temp" />
+          <ScalarProperty Name="dateD" ColumnName="dateD" />
+          <ScalarProperty Name="dateF" ColumnName="dateF" />
+          <ScalarProperty Name="proggre" ColumnName="proggre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
